@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Гео-шагомер</string>
+    <string name="steps_label">шагов</string>
+    <string name="notification_channel_name">Шагомер</string>
+    <string name="notification_channel_desc">Уведомления о шагах</string>
+    <string name="notification_steps">%1$d шагов · %2$s км</string>
+    <string name="notification_idle">Шагомер работает</string>
+</resources>
